@@ -1,0 +1,30 @@
+img {
+    display: inline-block;
+    margin-right: auto;
+}
+
+div 
+{
+    display: none;
+}
+
+h3 
+{
+    color: orange;
+}
+
+.PhatFont {
+    font-size: 15;
+    text-align: center;
+    color: mediumorchid;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+table{
+    
+    box-shadow:rgb(128, 128, 128) 5px 5px;
+    width: 30%;  
+}
